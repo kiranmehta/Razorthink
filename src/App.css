@@ -1,0 +1,51 @@
+.body{
+  margin: 0;
+  padding: 0;
+}
+
+.audience-bgrnd{
+  background-image: url('./assets/audience.jpg');
+  height: 826px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.keys-container{
+    text-align: center;
+    margin-top: -400px;
+}
+
+*{
+    font-family: 'Linux Libertine','Georgia','Times',serif
+}
+
+.key-details{
+    display: inline-block;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    background-color: #B0C4DE;
+   margin: 5px;
+   padding-top: 10px;
+   border: solid #696969 4px;
+   box-sizing: border-box;
+   opacity: 0.5;
+   cursor: pointer;
+}
+
+.sound-name{
+    background-color: #FFD700;
+    font-size: 12px;
+    padding-bottom: 0px;
+}
+
+
+
+
+
+
+
+
+
+
